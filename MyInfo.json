@@ -1,3 +1,26 @@
 {
-
+    "Name":"Nguyen Quoc Khanh",
+    "YearOfBirth": "1999",
+    "Address":{
+        "Country":"Viet Nam",
+        "City":"Can Tho"
+    },    
+    "Description":"I can use a bit of EngLish (enough for the Jobs),\n I can learn new Coding language are fast( often is about two week ),\n Thank You For Reading My CV",
+    "Skills":{
+        "Back_End":{
+            "CSharp":"60",
+            "CPP":"40"
+        },
+        "Front_End":{
+            "PHP":"70",
+            "HTML":"80",
+            "CSS":"69",
+            "Java_Script":"70",
+            "ReactJS":"50"
+        },
+        "Other":{
+            "Kali_Linux":"80",
+            "Google_Search":"99"
+        }
+    }
 }
